@@ -1,1 +1,3 @@
-Contact information here
+### Contact Info
+
+-capr5033@mylaurier.ca
